@@ -18,7 +18,3 @@ Thumbs.db
 *.swp
 *.swo
 *~
-
-# Local stores
-games.json
-metadata.json
