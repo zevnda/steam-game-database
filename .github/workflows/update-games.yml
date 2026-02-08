@@ -39,5 +39,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add games.json metadata.json
-          git commit -m "Update games database - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+          git commit -m "updated - $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
           git push
