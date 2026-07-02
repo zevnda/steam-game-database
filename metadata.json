@@ -1,9 +1,9 @@
 {
-  "lastFetchTimestamp": 1782961831,
-  "lastUpdateDate": "2026-07-02T03:10:31.518Z",
-  "totalGames": 173840,
+  "lastFetchTimestamp": 1782969744,
+  "lastUpdateDate": "2026-07-02T05:22:24.225Z",
+  "totalGames": 173845,
   "lastRunStats": {
-    "appsReceived": 106,
-    "gamesAdded": 11
+    "appsReceived": 98,
+    "gamesAdded": 5
   }
 }
